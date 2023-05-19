@@ -4,15 +4,15 @@ This is the repository for my personal website, R22M. It shows my portfolio, pro
 
 ## Features
 
-  Home: Landing page, small view to the web and services offered.
-- Portfolio: View of a collection of my wecomic projects.
+- Home: Landing page, small view to the web and services offered.
+- Portfolio: View of a collection of my webcomic projects.
 - About Me: Learn more about my background, skills, and interests.
 - Experience: Learn about my professional background.
 
 ## Usage
 
 - Explore the different sections of the website using the navigation menu.
-- Click on the navigator bar to view detailed information about me.
+- Click on the navigation bar to view detailed information about me.
 - Use the contact information provided to reach out to me for inquiries.
 
 ## Contribution
